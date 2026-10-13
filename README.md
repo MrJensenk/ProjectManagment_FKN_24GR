@@ -9,7 +9,9 @@
 
 ## Задачи и учёт времени
 
-**Weeek:** [https://app.weeek.net/?ws-id=1255832&invite-code=ASycUEHx29tXmUbI&source=menu&lang=ru-RU&utm_source=sharelink&utm_medium=tm&utm_campaign=1255832) (пространоство Проектный менеджмент).  
+**Weeek:** [https://app.weeek.net/?ws-id=1255832&invite-code=ASycUEHx29tXmUbI&source=menu&lang=ru-RU&utm_source=sharelink&utm_medium=tm&utm_campaign=1255832) (пространоство Проектный менеджмент). Все задачи в виде доски Kanban можно увидеть в разделе Проекты -> Проект 
+<img width="1677" height="891" alt="image" src="https://github.com/user-attachments/assets/a873aa19-c044-4a5d-9981-2fe8796954b5" />
+
 
 
 ## Структура
